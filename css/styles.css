@@ -12,6 +12,10 @@ body {
 #nav ol {
 	list-style: none;
 }
+a { 
+	text-decoration: none;
+	color: #2D4030;
+}
 #container {
 	background-color: #F7EDE2;
 }
