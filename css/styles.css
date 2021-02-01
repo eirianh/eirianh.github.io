@@ -23,12 +23,15 @@ a {
 	text-align: center;
 }
 #nav {
-	width: 360px;
+	width: 300px;
 	float: left;
 }
 #main {
-	width: 800px;
+	width: 860px;
 	float: right;
+}
+#main  ul {
+	list-style: none;
 }
 #footer {
 	clear: both;
