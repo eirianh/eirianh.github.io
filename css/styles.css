@@ -19,11 +19,11 @@ li {
 	text-align: center;
 }
 #nav {
-	width: 180px;
+	width: 360px;
 	float: left;
 }
 #main {
-	width: 600px;
+	width: 800px;
 	float: right;
 }
 #footer {
