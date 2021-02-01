@@ -18,3 +18,14 @@ li {
 #header { 
 	text-align: center;
 }
+#nav {
+	width: 180px;
+	float: left;
+}
+#main {
+	width: 600px;
+	float: right;
+}
+#footer {
+	clear: both;
+}
