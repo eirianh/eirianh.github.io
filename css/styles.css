@@ -7,7 +7,14 @@
 }
 body {
   font-family: 'Lato', sans-serif;
+  background-color: #F7EDE2;
 }
 li {
 	list-style: none;
+}
+#container {
+	background-color: white;
+#header { 
+	background-color: #E7D7CB;
+	text-align: center;
 }
