@@ -11,7 +11,7 @@ body {
 }
 #nav ol {
 	list-style: none;
-	padding: 0px;
+	padding: 5px;
 }
 a { 
 	text-decoration: none;
