@@ -8,4 +8,6 @@
 body {
   font-family: 'Lato', sans-serif;
 }
-#test li {list-style: disc;}
+li {
+	list-style: none;
+}
