@@ -12,9 +12,9 @@ body {
 #nav ol {
 	padding: 0px;
 }
-a {
+a: link {
 	color: #2D4030;
-	style: none; 
+	text-decoration: none;
 }
 a: hover {
 	color: #49684C;
