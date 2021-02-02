@@ -7,13 +7,13 @@
 }
 body {
   font-family: 'Lato', sans-serif;
-  background-color: #81C953;
+  background-color: #F1CCBB;
 }
 #nav ol {
 	padding: 0px;
 }
 a {
-	color: #2D4030;
+	color: #605E5F;
 	text-decoration: none;
 }
 a: hover {
@@ -21,7 +21,7 @@ a: hover {
 	text-decoration: none;
 }
 #container {
-	background-color: #97E589;
+	background-color: #F1CCBB;
 	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
@@ -31,7 +31,7 @@ a: hover {
 }
 #header {
 	text-align: center;
-	background-color: #D2C1B3;
+	background-color: #E4A9A4;
 	padding: 10px; 
 }
 #nav {
