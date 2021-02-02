@@ -17,7 +17,7 @@ a {
 	text-decoration: none;
 }
 a: hover {
-	color: #49684C;
+	color: #49684C !important;
 	text-decoration: none;
 }
 #container {
