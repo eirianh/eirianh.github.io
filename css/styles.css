@@ -10,11 +10,11 @@ body {
   background-color: #F7EDE2;
 }
 #nav ol {
-	list-style: none;
 	padding: 0px;
 }
 a {
 	color: #2D4030;
+	style: none; 
 }
 a: hover {
 	color: #49684C;
