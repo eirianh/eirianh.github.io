@@ -10,15 +10,17 @@ body {
   background-color: #E8FDDD;
 }
 #nav ol {
-	padding: 0px;
+	padding: 5px;
 }
 a {
 	color: #2E2B2C;
 	text-decoration: none;
+	font-weight: bold; 
 }
 a:hover {
 	color: #49684C !important;
 	text-decoration: none;
+	font-weight: bold; 
 }
 #container {
 	background-color: #E8FDDD;
